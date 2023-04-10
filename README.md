@@ -9,3 +9,6 @@ A: I'll look back on this and think "Goddamnit how did i make something so unopt
 B: I'll look back on this and think "Why did i use this variable name? It looks stupid"
 
 C: Why did i make something so specific? Either way i'll be needing this.
+
+# Can i x?
+Sure! Feel free to make requests/pull requests/suggestions
